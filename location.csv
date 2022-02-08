@@ -1,0 +1,253 @@
+﻿DimLocationDWK,LocationID,LocationName,Address,City,State,Country,Zipcode,IsCurrent,DeletedRecordFlag,DWStartDate,DWEndDate
+1,34,Store #100 - New York,Store Manager,New York,NY,US,10012,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Store #100 - New York,,,,,,,,
+,,,303 Lafayette St,,,,,,,,
+,,,New York NY 10012,,,,,,,,
+,,,United States,,,,,,,,
+2,35,Store #110 - Boston,Store Manager,Boston,MA,US,2215,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Store #110 - Boston,,,,,,,,
+,,,401 Park Drive,,,,,,,,
+,,,Boston MA 02215,,,,,,,,
+,,,United States,,,,,,,,
+3,36,Store #200 - Los Angeles,Store Manager,Manhattan Beach,CA,US,90266,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Store #200 - Los Angeles,,,,,,,,
+,,,1800 Rosecrans Avenue,,,,,,,,
+,,,Manhattan Beach CA 90266,,,,,,,,
+,,,United States,,,,,,,,
+4,69,Store #411 - Chiswick,Store #411 - Chiswick,London,Middx.,GB,W4 4JN,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,248 Chiswick High Road,,,,,,,,
+,,,London Middx. W4 4JN,,,,,,,,
+,,,United Kingdom,,,,,,,,
+5,71,Store #410 - Chelsea,Store #410 - Chelsea,London,Lanarkshire,GB,SW3 5UG,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,298 Kings Road,,,,,,,,
+,,,Chelsea,,,,,,,,
+,,,London Lanarkshire SW3 5UG,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+6,88,Store #500 - Toronto,Store #500 - Toronto,Toronto,ON,CA,M5H 2G4,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,100 Richmond Street,,,,,,,,
+,,,Toronto ON M5H 2G4,,,,,,,,
+,,,Canada,,,,,,,,
+7,1,US East DC,Warehouse Manager,Boston,MA,US,2210,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,US East DC,,,,,,,,
+,,,1075 4th St,,,,,,,,
+,,,Boston MA 02210,,,,,,,,
+,,,United States,,,,,,,,
+8,2,US West DC,Gill Inc.,San Mateo,CA,US,94403,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,US West DC,,,,,,,,
+,,,2955 Campus Drive,,,,,,,,
+,,,San Mateo CA 94403,,,,,,,,
+,,,United States,,,,,,,,
+9,3,US East DC Damaged Goods,US East DC Damaged Goods,Boston,MA,US,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Boston MA,,,,,,,,
+,,,United States,,,,,,,,
+10,4,US West DC Damaged Goods,US West DC Damaged Goods,San Mateo,CA,US,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,San Mateo CA,,,,,,,,
+,,,United States,,,,,,,,
+11,5,US Midwest DC,Gill Inc.,Chicago,IL,US,60601,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,US Midwest DC,,,,,,,,
+,,,200 N LaSalle Street,,,,,,,,
+,,,Chicago IL 60601,,,,,,,,
+,,,United States,,,,,,,,
+12,10,Chicago,,,,,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+13,11,Mexico City,,,,,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+14,12,Makati,Makati,Makati,Metro Manila,PH,1220,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,"RCBC Plaza 6819 Ayala Ave., corner Sen. Gil Puyat Ave.,",,,,,,,,
+,,,Makati Metro Manila 1220,,,,,,,,
+,,,Philippines,,,,,,,,
+15,13,Central,Hongkong,Central,,HK,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,21F The Centre 99 Queen's Road,,,,,,,,
+,,,Central,,,,,,,,
+,,,Hong Kong,,,,,,,,
+16,14,Melbourne,The Warehouse Manager,North Richmond,VIC,AU,3009,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Gill Melbourne,,,,,,,,
+,,,28 Richmond Road,,,,,,,,
+,,,North Richmond VIC 3009,,,,,,,,
+,,,Australia,,,,,,,,
+17,15,Sydney,Sydney,Botany,NSW,AU,2009,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,12 Sir Joseph Banks Street,,,,,,,,
+,,,Botany NSW 2009,,,,,,,,
+,,,Australia,,,,,,,,
+18,16,Brisbane,The Warehouse Manager,Fortitude Valley,QLD,AU,7002,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Gill Inc Brisbane,,,,,,,,
+,,,221 Fortitude Valley Way,,,,,,,,
+,,,Fortitude Valley QLD 7002,,,,,,,,
+,,,Australia,,,,,,,,
+19,18,Perth,The Warehouse Manager,Perth,WA,AU,8004,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Perth,,,,,,,,
+,,,22 Swan River Road,,,,,,,,
+,,,Perth WA 8004,,,,,,,,
+,,,Australia,,,,,,,,
+20,19,Auckland,Auckland,,,NZ,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,New Zealand,,,,,,,,
+21,20,Wellington,Wellington,,,NZ,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,New Zealand,,,,,,,,
+22,21,Brussels,Brussels,Brussels,,BE,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Lindestraat 20 Industrie Park,,,,,,,,
+,,,Brussels,,,,,,,,
+,,,Belgium,,,,,,,,
+23,22,Copenhagen,Copenhagen,Copenhagen,,DK,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Sundkrogsgade 20 DK-2200,,,,,,,,
+,,,Copenhagen,,,,,,,,
+,,,Denmark,,,,,,,,
+24,23,Paris,Gill S.à r.l.,Paris,,FR,75008,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,"138, Avenue des Champs Elysées",,,,,,,,
+,,,Paris 75008,,,,,,,,
+,,,France,,,,,,,,
+25,24,Berlin DC,Berlin DC,Berlin,,DE,10243,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Tamara-danz-str. 1,,,,,,,,
+,,,Berlin 10243,,,,,,,,
+,,,Germany,,,,,,,,
+26,25,Amsterdam,Amsterdam,Amsterdam,,NL,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Paulus Potterstraat 18 2071 BT,,,,,,,,
+,,,Amsterdam,,,,,,,,
+,,,Netherlands,,,,,,,,
+27,26,London,London,London,London,GB,W1K 6AH,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,24 Grosvenor Square,,,,,,,,
+,,,London London W1K 6AH,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+28,17,Sydney DC QA Inspection,Returns Manager,Botany,NSW,AU,2009,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Sydney DC QA Inspection,,,,,,,,
+,,,12 Sir Joseph Banks Street,,,,,,,,
+,,,Botany NSW 2009,,,,,,,,
+,,,Australia,,,,,,,,
+29,27,Toronto,Gill Toronto,Toronto,ON,CA,M5V 3M9,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,255 Bremner Boulevard,,,,,,,,
+,,,Toronto ON M5V 3M9,,,,,,,,
+,,,Canada,,,,,,,,
+30,28,Newcastle,Newcastle Tyne &amp; Wear,Newcastle,Tyne &amp; Wear,GB,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United Kingdom (GB),,,,,,,,
+31,29,Middlesbrough,Middlesbrough,,,GB,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United Kingdom (GB),,,,,,,,
+32,37,Store #210 - San Francisco,Store #210 - San Francisco,San Francisco,CA,US,94103,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,840 Brannan Streen,,,,,,,,
+,,,San Francisco CA 94103,,,,,,,,
+,,,United States,,,,,,,,
+33,40,"zStore #401, York","zStore #401, York",York,N Yorkshire,GB,YO1 9RD,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,12 Clifford Street,,,,,,,,
+,,,York N Yorkshire YO1 9RD,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+34,41,"zStore #400, Leeds","zStore #400, Leeds",Leeds,W Yorkshire,GB,LS1 6JL,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,3 Albion Place,,,,,,,,
+,,,Leeds W Yorkshire LS1 6JL,,,,,,,,
+,,,United Kingdom,,,,,,,,
+35,44,"zStore #421, Stoke on Trent","zStore #421, Stoke on Trent",Stoke on Trent,Staffs.,GB,ST1 1TS,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,126 Middle Hall,,,,,,,,
+,,,Hanley,,,,,,,,
+,,,Stoke on Trent Staffs. ST1 1TS,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+36,45,"zStore #420, Birmingham","zStore #420, Birmingham",Birmingham,W Midlands,GB,B2 4NS,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,140-145 New Street,,,,,,,,
+,,,Birmingham W Midlands B2 4NS,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+37,48,"zStore #410, Chelsea","zStore #410, Chelsea",London,London,GB,SW3 5UG,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,298 King's Road,,,,,,,,
+,,,London London SW3 5UG,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+38,49,"zStore #411, Chiswick","zStore #411, Chiswick",London,London,GB,W4 1PB,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,298 Chiswick High Road,,,,,,,,
+,,,London London W4 1PB,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+39,53,Store #300 - Bondi Junction,Store #300 - Bondi Junction,Bondi Junction,NSW,AU,2022,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,"Grosvenor La,",,,,,,,,
+,,,Bondi Junction NSW 2022,,,,,,,,
+,,,Australia,,,,,,,,
+40,56,Store #304 - Doncaster,Store #304 - Doncaster,Doncaster,VIC,AU,3108,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,"Uxbridge Av,",,,,,,,,
+,,,Doncaster VIC 3108,,,,,,,,
+,,,Australia,,,,,,,,
+41,57,Store #312 - Chadstone,Store #312 - Chadstone,Chadstone,VIC,AU,3148,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Cabena Cr,,,,,,,,
+,,,Chadstone VIC 3148,,,,,,,,
+,,,Australia,,,,,,,,
+42,59,Store #308 - Bendigo,Store #308 - Bendigo,Bendigo,VIC,AU,3550,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Myers St,,,,,,,,
+,,,Bendigo VIC 3550,,,,,,,,
+,,,Australia,,,,,,,,
+43,60,Store #316 - Ballarat,Store #316 - Ballarat,Ballarat,VIC,AU,3350,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Armstrong St N,,,,,,,,
+,,,Ballarat VIC 3350,,,,,,,,
+,,,Australia,,,,,,,,
+44,61,zUK Retail Distribution Centre,zUK Retail Distribution Centre,Leicester,Leics.,GB,LE6 0FS,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Markfield Road,,,,,,,,
+,,,Groby,,,,,,,,
+,,,Leicester Leics. LE6 0FS,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+45,62,Sydney Distribution Centre,Sydney Distribution Centre,Sydney,NSW,AU,2064,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,100 Alfred Street,,,,,,,,
+,,,Sydney NSW 2064,,,,,,,,
+,,,Australia,,,,,,,,
+46,67,Store #320 - Sydney,Store #320 - Sydney,Sydney,NSW,AU,2000,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Clarence St,,,,,,,,
+,,,Sydney NSW 2000,,,,,,,,
+,,,Australia,,,,,,,,
+47,68,Boston,Shipping,South Boston,MA,US,2210,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Gill Inc US 2,,,,,,,,
+,,,51 Melcher Street,,,,,,,,
+,,,South Boston MA 02210,,,,,,,,
+,,,United States,,,,,,,,
+48,70,Store #400 - Leeds,Store #400 - Leeds,Leeds,W Yorkshire,GB,LS1 6JL,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,3 Albion Place,,,,,,,,
+,,,Leeds W Yorkshire LS1 6JL,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+49,72,Store #420 - Birmingham,Store #420 - Birmingham,Birmingham,W Midlands,GB,B2 4NJ,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,140 - 145 New Street,,,,,,,,
+,,,Birmingham W Midlands B2 4NJ,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+50,73,UK Retail DC,UK Retail DC,Crawley,W Sussex,GB,RH10 1GY,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Hazelwick Avenue,,,,,,,,
+,,,Crawley W Sussex RH10 1GY,,,,,,,,
+,,,United Kingdom,,,,,,,,
+51,74,UK Retail Head Office,UK Retail Head Office,Guildford,Surrey,GB,GU1 3BB,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,High Street,,,,,,,,
+,,,Guildford Surrey GU1 3BB,,,,,,,,
+,,,United Kingdom (GB),,,,,,,,
+52,75,US East DC QA Inspection,US East DC QA Inspection,,,US,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United States,,,,,,,,
+53,76,US East DC Cross Dock,US East DC Cross Dock,,,US,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United States,,,,,,,,
+54,77,US West DC QA Inspection,US West DC QA Inspection,,,US,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United States,,,,,,,,
+55,79,London Damaged Goods,London Damaged Goods,,,GB,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United Kingdom (GB),,,,,,,,
+56,80,London QA Inspection,London QA Inspection,,,GB,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United Kingdom (GB),,,,,,,,
+57,81,London Cross Dock,London Cross Dock,,,GB,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United Kingdom (GB),,,,,,,,
+58,82,UK Retail DC Damaged Goods,UK Retail DC Damaged Goods,,,GB,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United Kingdom (GB),,,,,,,,
+59,83,UK Retail DC QA Inspection,UK Retail DC QA Inspection,,,GB,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United Kingdom (GB),,,,,,,,
+60,84,UK Retail DC Cross Dock,UK Retail DC Cross Dock,,,GB,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,United Kingdom (GB),,,,,,,,
+61,85,Sydney DC Cross Dock,Sydney DC Cross Dock,Sydney,NSW,AU,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Sydney NSW,,,,,,,,
+,,,Australia,,,,,,,,
+62,86,Sydney DC Damaged Goods,Sydney DC Damaged Goods,Sydney,NSW,AU,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Sydney NSW,,,,,,,,
+,,,Australia,,,,,,,,
+63,87,Canada DC,Canada DC,Mississauga,ON,CA,L4W 5K9,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,5800 Explorer Dr #100,,,,,,,,
+,,,Mississauga ON L4W 5K9,,,,,,,,
+,,,Canada,,,,,,,,
+64,89,Store #510 - Montreal,Store #510 - Montreal,Montréal,QC,CA,H3B 2Y5,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,1200 Avenue McGill College,,,,,,,,
+,,,Montréal QC H3B 2Y5,,,,,,,,
+,,,Canada,,,,,,,,
+65,90,Frankfurt DC,Frankfurt DC,Frankfurt,,DE,60528,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Melibocusstraße 52,,,,,,,,
+,,,Frankfurt 60528,,,,,,,,
+,,,Germany,,,,,,,,
+66,91,Store# 600 - Berlin,Store# 600 - Berlin,Berlin,,DE,13407,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Holländerstraße 70,,,,,,,,
+,,,Berlin 13407,,,,,,,,
+,,,Germany,,,,,,,,
+67,92,Store# 601 - Hamburg,Store# 601 - Hamburg,Hamburg,,DE,20099,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Lange Reihe 110,,,,,,,,
+,,,Hamburg 20099,,,,,,,,
+,,,Germany,,,,,,,,
+68,93,Store# 602 - Munich,Store# 602 - Munich,Munich,,DE,80993,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,Hanauer Str 68,,,,,,,,
+,,,Munich 80993,,,,,,,,
+,,,Germany,,,,,,,,
+69,95,Mexico,,,,,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+70,96,United States,,,,,,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"

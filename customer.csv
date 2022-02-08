@@ -1,0 +1,156 @@
+﻿DimCustomerDWK,CustomerID,CustomerAccountNumber,CustomerName,CustomerStatus,CustomerAddress,CustomerCity,CustomerState,CustomerCountry,CustomerType,CustomerSalesRep,CustomerSalesTerritory,IsCurrent,DeletedRecordFlag,DWStartDate,DWEndDate
+1,1049,12342,Smith Supplies,Closed Won,Main HQ,San Ramon,CA,US,11,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Tim Smith,,,,,,,,,,
+,,,,,3420 Fostoria Way,,,,,,,,,,
+,,,,,San Ramon CA 94583,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+2,982,,Advanced Machining Techniques Inc.,Closed Won,Mr Erlinson,Morgan Hill,CA,US,9,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Al Erlinson,,,,,,,,,,
+,,,,,16205 Vineyard Blvd,,,,,,,,,,
+,,,,,Morgan Hill CA 95037,,,,,,,,,,
+3,192,,Superior Car care Inc.,Closed Lost,,,,,1,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+4,1284,,Everett International,Closed Won,Brian Chapel,South Beloit,IL,US,1,Alex Wolfe,Default Round-Robin,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Everett's Liquor Store,,,,,,,,,,
+,,,,,426 Gardner Street,,,,,,,,,,
+,,,,,South Beloit IL 61080,,,,,,,,,,
+5,1290,,Smith East Coast Office,Closed Won,Smith Office Rentals,Chicago,IL,US,11,Alex Wolfe,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Tim Smith,,,,,,,,,,
+,,,,,722 W Diversey Pkwy,,,,,,,,,,
+,,,,,Chicago IL 60614,,,,,,,,,,
+6,1518,,Global Supplies Inc.,Closed Won,Global Supplies Inc.,,CA,US,11,Alex Wolfe,Default Round-Robin,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,6800 Turk Street,,,,,,,,,,
+,,,,,CA 94583,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+7,189,,Art Institute of California,Closed Won,,,,,1,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+8,442,,Alamo Catering Group,Closed Won,Alamo Catering Group,Pendleton,AK,US,1,Alex Wolfe,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,AK,,,,,,,,,,
+9,187,,Sally Ward,Closed Won,,,,,2,Alex Wolfe,New Registration Promotion,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+10,634,,Boise Publishing Co.,Closed Won,Boise Publishing Co.,Bonita,CA,US,1,Alex Wolfe,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,1240 Lynden Rd.,,,,,,,,,,
+,,,,,"Bonita, CA 91908",,,,,,,,,,
+11,1678,,Thomas Industry Supply,Closed Won,Thomas Industry Supply,Williston,ND,US,13,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,517 6th Ave W,,,,,,,,,,
+,,,,,Williston ND 58801,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+12,75,,Anderson Boughton Inc.,Closed Won,Anderson Boughton Inc.,Seattle,WA,US,1,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,1488 Main,,,,,,,,,,
+,,,,,Apt 113,,,,,,,,,,
+,,,,,Seattle WA 98106,,,,,,,,,,
+,,,,,US,,,,,,,,,,
+13,954,Spectrum Eye,Spectrum Eye,Closed Won,Nancy Prokopich,San Jose,CA,US,4,Alex Wolfe,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Spectrum Eye,,,,,,,,,,
+,,,,,2577 Samaritan Drive,,,,,,,,,,
+,,,,,Suite 740,,,,,,,,,,
+,,,,,San Jose CA 95124-4100,,,,,,,,,,
+14,86,,Mark's Sporting Goods,Closed Won,Mark's Sporting Goods,Burlingame,CA,US,1,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,2157 Tracy St,,,,,,,,,,
+,,,,,Burlingame CA 94010,,,,,,,,,,
+,,,,,US,,,,,,,,,,
+15,93,,Williams Wireless World,Closed Won,Williams Wireless World,Seattle,WA,US,1,Alex Wolfe,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,105 Virginia St,,,,,,,,,,
+,,,,,Ste 22,,,,,,,,,,
+,,,,,Seattle WA US,,,,,,,,,,
+16,193,,Wilson Kaplan,Opportunity Identified,,,,,2,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+17,400,,Astry Software Holding Corp.,Closed Won,Astry Software Holding Corp.,Monterey,CA,US,1,Alex Wolfe,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,3924 Azusa Lane,,,,,,,,,,
+,,,,,"Monterey, CA 93940",,,,,,,,,,
+18,1354,,James McClure,Closed Won,Mr. James McClure,San Francisco,CA,US,2,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,5412 Green Street,,,,,,,,,,
+,,,,,San Francisco CA 94112,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+19,969,Mission Liquors,Mission Liquors,Closed Won,Larry Brown,Pasadena,CA,US,3,Alex Wolfe,Default Round-Robin,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Mission Liquors,,,,,,,,,,
+,,,,,1801 E. Washington Blvd,,,,,,,,,,
+,,,,,Pasadena CA 91104,,,,,,,,,,
+20,997,,Core Care Technologies Inc.,Closed Won,Core Care Technologies Inc.,Sewell,NJ,US,5,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,309 Fries Mill Road,,,,,,,,,,
+,,,,,Suite 14,,,,,,,,,,
+,,,,,Sewell NJ 08080,,,,,,,,,,
+21,1004,,Sport Station,Closed Won,Sport Station,ANAHEIM,CA,US,7,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,3070 E. LA JOLLA ST.,,,,,,,,,,
+,,,,,ANAHEIM CA 92806-1312,,,,,,,,,,
+22,1100,,Alpine Cafe and Wine Bar,Closed Won,,,,,1,Alex Wolfe,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+23,1116,,Andy Thompson,Closed Won,Andy Thompson,New York,NY,US,3,Alex Wolfe,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,1911 3rd Ave,,,,,,,,,,
+,,,,,New York NY 10012,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+24,1249,,AB&I Holdings,Closed Won,United States,,,US,1,Alex Wolfe,Default Round-Robin,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+25,1288,,Core Care Canada,Closed Won,Core Care Technologies Inc.,Sewell,NJ,US,5,Alex Wolfe,Default Round-Robin,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,309 Fries Mill Road,,,,,,,,,,
+,,,,,Suite 14,,,,,,,,,,
+,,,,,Sewell NJ 08080,,,,,,,,,,
+26,1336,,Oiler Corporation,Closed Won,Oiler Corporation,New York,NY,US,8,Alex Wolfe,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,1859 6th Ave,,,,,,,,,,
+,,,,,New York NY 10122,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+27,1542,,Aaron Abbott,Closed Won,Aaron Abbott,Englewood,CO,US,2,Alex Wolfe,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,8000 S Chester St,,,,,,,,,,
+,,,,,Englewood CO 80112,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+28,1695,,Dick’s Sporting Goods,Closed Won,Main HQ - PA,Coraopolis,PA,US,17,Alex Wolfe,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Dick Stack,,,,,,,,,,
+,,,,,345 Court St,,,,,,,,,,
+,,,,,Coraopolis PA 15108,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+29,1002,,Academy Sports & Outdoors,Closed Won,Academy Sports & Outdoors,Katy,TX,US,7,Krista Barton,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,1800 N. Mason Road,,,,,,,,,,
+,,,,,Katy TX 77449,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+30,971,Academy Avenue Liquor Store,Academy Avenue Liquor Store,Closed Won,Bob Hasker,Providence,RI,US,3,Krista Barton,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Academy Avenue Liquor Store,,,,,,,,,,
+,,,,,219 Academy Avenue,,,,,,,,,,
+,,,,,Providence RI 02908,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+31,138,,Gibsons Corporation,Closed Won,US,,,US,1,Krista Barton,The Bay Times (Partner),1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+32,958,Focal Point Opticians,Focal Point Opticians,Closed Won,Alicia Brown,Berkeley,CA,US,4,Sam R Cruz,Default Round-Robin,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Focal Point Opticians,,,,,,,,,,
+,,,,,2638 Ashby Avenue,,,,,,,,,,
+,,,,,Berkeley CA 94705,,,,,,,,,,
+33,228,,Jason Jacob,Closed Won,,,,,1,Sam R Cruz,Initial Awareness Rule,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+34,959,John G. Roche Opticians,John G. Roche Opticians,Closed Won,John Roche,Winchester,KY,US,4,Mark Grogan,Default Round-Robin,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,John G. Roche Opticians,,,,,,,,,,
+,,,,,1200 Bypass Road,,,,,,,,,,
+,,,,,Winchester KY 40391,,,,,,,,,,
+35,156,,Wallace Printers,Closed Lost,Wallace Printers,,,US,1,Mark Grogan,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,United States,,,,,,,,,,
+36,973,The Liquor Store,The Liquor Barn,Closed Won,Jack Fraser,Jackson Hole,WY,US,3,Mark Grogan,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Jack Fraser,,,,,,,,,,
+,,,,,115 Buffalo Way,,,,,,,,,,
+,,,,,Jackson Hole WY 65241,,,,,,,,,,
+37,153,,Sandy King,In Discussion,Sandy King,,,US,2,Mark Grogan,New Registration Promotion,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,United States,,,,,,,,,,
+38,1003,,Sports Authority,Closed Won,Sports Authority,Alpharetta,GA,US,7,Mark Grogan,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,7461 North Point Parkway,,,,,,,,,,
+,,,,,Alpharetta GA 30022,,,,,,,,,,
+39,999,,Sunnybrook Hospital,Closed Won,Sunnybrook Hospital,Toronto,ON,CA,5,Clark Koozer,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,43 Wellesley Street East,,,,,,,,,,
+,,,,,Toronto ON M4Y 1H1,,,,,,,,,,
+,,,,,Canada,,,,,,,,,,
+40,1000,,Teton Winter Sports,Closed Won,Dick's Sporting Goods,Jacksonville,FL,US,7,Clark Koozer,Eastern,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,St. Johns Town Center,,,,,,,,,,
+,,,,,10390 Midtown Parkway,,,,,,,,,,
+,,,,,Jacksonville FL 32246,,,,,,,,,,
+41,1005,,Bicycle Trailers,Closed Won,Bicycle Trailers,Minneapolis,MN,US,7,Clark Koozer,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,3225 Lyndale Ave. S,,,,,,,,,,
+,,,,,Minneapolis MN 55408,,,,,,,,,,
+42,2039,,Future Inc,Closed Won,Future Inc,Chicago Ridge,IL,US,13,Clark Koozer,Default Round-Robin,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,10031 Virgina Ave.,,,,,,,,,,
+,,,,,Chicago Ridge IL 60415,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+43,955,Academy Vision Science Clinic,Academy Vision Science Clinic,Closed Won,Kelly Scintos,Colorado Springs,CO,US,4,Clark Koozer,Default Round-Robin,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Academy Vision Science Clinic,,,,,,,,,,
+,,,,,5525 N. Union Blvd,,,,,,,,,,
+,,,,,Colorado Springs CO 80918 - 1969,,,,,,,,,,
+44,970,Everett's Liquor Store,Everett Fine Wines,Closed Won,Brian Chapel,South Beloit,IL,US,3,Clark Koozer,Western,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Everett's Liquor Store,,,,,,,,,,
+,,,,,426 Gardner Street,,,,,,,,,,
+,,,,,South Beloit IL 61080,,,,,,,,,,
+45,2041,,Slay Industries,Closed Won,Slay Industries,Saint Louis,MO,US,1,Adam Baum,Default Round-Robin,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,Slay Industries,,,,,,,,,,
+,,,,,1441 Hampton Ave,,,,,,,,,,
+,,,,,Saint Louis MO 63139,,,,,,,,,,
+,,,,,United States,,,,,,,,,,
+46,2682,,Ausnet Radio,Closed Won,Ausnet Radio,Nundah,QLD,AU,1,Sahar Faqeb,AUS-QLD NT,1,0,"Friday, December 10, 2021","Friday, December 31, 9999"
+,,,,,PO Box 182,,,,,,,,,,
+,,,,,Nundah QLD 4012,,,,,,,,,,
+,,,,,Australia,,,,,,,,,,
